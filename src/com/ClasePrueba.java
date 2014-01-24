@@ -2,6 +2,7 @@ package com;
 
 public class ClasePrueba {
 	private String nombre;
+	private String apellido1;
 	private int edad;
 	
 	public String getNombre() {
